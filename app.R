@@ -12,6 +12,7 @@ ui <- fluidPage(
   
   sidebarLayout(
     sidebarPanel(
+    h3("Dat repository"),
     helpText("Create demographic maps with
            information from the 2010 US Census.",
            
